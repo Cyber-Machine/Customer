@@ -1,0 +1,15 @@
+.layer{
+    background-color: blue;
+}
+.information {
+    margin-top: 1rem;
+    text-align: center;
+    width: 100%;
+}
+
+.information p{
+    font-size: 12px;
+    line-height: 14px;
+}
+
+
